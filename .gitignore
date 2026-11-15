@@ -1,0 +1,30 @@
+# 编译产物
+target/
+CoolerScreenRs/target/
+*.pdb
+
+# 发布目录（含第三方二进制：ffmpeg / USBLCD / HWiNFO，走 Release 附件）
+发布/
+
+# 研究用（反编译的第三方代码与探针脚本，不公开）
+_re/
+_probe/
+_rs_probe/
+_rs_spike/
+_tfm/
+
+# 早期 C# 版本
+CoolerScreen/
+
+# 本地配置与运行产物
+settings.json
+settings_error.txt
+styles/
+__pycache__/
+*.log
+*.tmp
+
+# 编辑器
+.vs/
+.idea/
+*.user

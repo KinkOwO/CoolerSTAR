@@ -10,7 +10,7 @@
 驱动 320×240 水冷小屏（USBLCD 协议）的桌面程序。图片 / 视频背景 + 自定义文字叠加 + 系统传感器读数 + 可拖动的图形组件，用来替代厂商自带的 BOOMSTAR。
 
 <p align="center">
-  <img src="docs/preview.png" width="720" alt="CoolerSTAR 界面预览">
+  <img src="docs/preview.png" width="720" alt="CoolerSTAR 界面预览（百日橘主题）">
 </p>
 
 ---
